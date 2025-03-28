@@ -11,7 +11,7 @@
 ML_SS(Z,Y,z,tree)
 - Z: Predictors in training data, with matrix $n_1\times q$ (sample size $n_1$ and dimension $q$)
 - Y: Outcome in training data, with vector $n_1$
-- Z: Predictors in testing data, with matrix $n_2\times q$ (sample size $n_2$ and dimension $q$)
+- Z: Predictors in testing data, with matrix $n_2\times q$ (sample size $n_2$)
 - Tree: Number of trees
   
 DML_HDMA(x,m,y,z,K)
